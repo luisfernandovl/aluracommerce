@@ -12,7 +12,7 @@
 
 O AluraCommerce é uma aplicação feita em React Native que simula um e-commerce.
 
-Esse projeto foi desenvolvido durantes meus estudos na formação de React Native da plataforma da Alura. Especificamente neste curso:
+Esse projeto foi desenvolvido durante meus estudos na formação de React Native da plataforma da Alura. Especificamente neste curso:
 <a href="https://www.alura.com.br/curso-online-react-native-context-api-aplicacoes">React Native: utilizando o Context API nas suas aplicações</a>
 
 Caso queira acessar o projeto diretamente do repositório da Alura, <a href="https://github.com/alura-cursos/react-native-context-api/tree/projeto-final">clique aqui.</a>
