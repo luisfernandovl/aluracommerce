@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com a utilização das seguintes tecnologias:
 ## :information_source: Como usar
 No terminal, digite os comandos a seguir:
 
-### Baixar e instalar o projeto
+### Instalar o projeto
 
 ```bash
 # Vá para o repositório e instale as dependências
